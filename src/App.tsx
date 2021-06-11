@@ -1,6 +1,6 @@
 import { BrowserRouter, NavLink, Route, Switch } from 'react-router-dom';
-import Home from './page/Home';
-import SoftPhone from './page/SoftPhone';
+import Home from './pages/Home';
+import SoftPhone from './pages/SoftPhone';
 
 function App() {
   return (
